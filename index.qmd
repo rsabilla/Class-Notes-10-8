@@ -1,6 +1,28 @@
 ---
-title: "Untitled"
+title: "IBM 6200 Notes"
+Author: "Ron Stephen Sabilla"
 format: html
 ---
 
-fugtgiuthg
+## Fall Semester
+
+- **Week 4 – CEP Kickoff:** Official start of the capstone project. We get introduced to the client, go over the project scope, and start getting organized as a team.
+- **Week 9 – 1st Presentation (Ch. 1, 2, 3):** First formal presentation covering the opening chapters. This is our first chance to show progress and get feedback from the professor and client.
+- **Week 15 – 2nd Presentation (Ch. 1, 2, 3):** We present Ch. 1–3 again, this time revised and more polished based on the feedback from Week 9. This wraps up the Fall portion of the project.
+
+## Spring Semester
+
+- **Week 6** is when Ch. 4 is due. This builds on the groundwork from the first three chapters and moves the project into its next phase.
+- **Week 12 – Ch. 6 Data Analysis & Ch. 5 Recommendation:** Both chapters are due together. The data analysis shows what we found, and the recommendation chapter turns those findings into actionable suggestions for the client.
+
+## Notes
+
+- Ch. 1–3 are presented twice in Fall, so the Week 9 feedback should be built into the Week 15 version.
+- Ch. 6 (Data Analysis) comes before Ch. 5 (Recommendation) at Week 12, so it's worth confirming the chapter numbering with the professor.
+
+## GitHub Publication
+
+- There are 2 ways to publish on GitHub Pages.
+- I've been posting it using Positron. It's a whole process, but now it works.
+- First way is using the terminal.
+- Second method is using preview + preview.
